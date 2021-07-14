@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"            "[BlackBerry] F4 menu"
+	"project"		  "BlackBerry"
+	"version"         ""
+	"author_name"     "Lestrigon"
+	"author_email"    "lestrigon17.gmod@yandex.ru"
+	"buyer_id"		  "76561198041868487"
+}

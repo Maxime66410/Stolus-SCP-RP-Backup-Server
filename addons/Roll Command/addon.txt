@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "Roll Command"
+	"author_name" "Author Name"
+	"info" " { 	"description": "Description", 	"type": "tool", 	"tags":  	[ 		"fun", 		"roleplay" 	] }"
+}

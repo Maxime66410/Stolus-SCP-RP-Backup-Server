@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "Acces Mod Updated v2.1"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "tool",
+	"tags": [
+		"roleplay",
+		"realism"
+	]
+}"
+}

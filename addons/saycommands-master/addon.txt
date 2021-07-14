@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				"DarkRP Say Commands"
+	"version"			"1.0"
+	"author_name"		"Nyco"
+	"author_email"		"ebadteam@gmail.com"
+	"info"				"These are fun say commands for DarkRP"
+}

@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"MOREULX"
+	"version"			"1.00"
+	"up_date"			"11/22/13"
+	"author_name"			"Matt Damon"
+	"author_email"			"scardwell15@gmail.com"
+	"author_url"			"http://www.horizongaming.us/"
+	"info"				"MOREULX - More commands for ULX!"
+	"override"			"0"
+}
